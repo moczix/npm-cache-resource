@@ -24,6 +24,7 @@ RUN apk add --update \
     bash \
     openssh \
     make \
+    cmake \
     git \
     jq \
     libstdc++ \
